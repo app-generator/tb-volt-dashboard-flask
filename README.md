@@ -18,7 +18,7 @@ Open-Source **Flask Dashboard** coded with basic modules, database, ORM and depl
 > Links
 
 - [Volt Bootstrap 5 Flask](https://themesberg.com/product/flask/volt-admin-dashboard-template) - product page
-- [Volt Bootstrap 5 Flask - Demo](tb-volt-dashboard-flask.appseed-srv1.com) - LIVE deployment
+- [Volt Bootstrap 5 Flask - Demo](https://tb-volt-dashboard-flask.appseed-srv1.com) - LIVE deployment
 - [Volt Bootstrap 5 Flask - Docs](https://themesberg.com/docs/flask/volt-admin-dashboard/getting-started/quick-start/) - Product documentation
 
 <br />
