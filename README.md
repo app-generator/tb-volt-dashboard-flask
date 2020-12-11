@@ -1,6 +1,6 @@
-# [Flask Dashboard](http://appseed.us/admin-dashboards/flask) - Volt Bootstrap 5
+# [Volt Bootstrap 5 Flask](https://themesberg.com/product/flask/volt-admin-dashboard-template)
 
-Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **[Volt Dashboard](https://docs.appseed.us/bootstrap-template/volt-dashboard/)** (free version), a modern Bootstrap dashboard design. Volt is a free and open source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
+Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **Volt Dashboard** (free version), a modern Bootstrap dashboard design. Volt is a free and open-source Bootstrap 5 Admin Dashboard featuring over 100 components, 11 example pages and 3 customized plugins. **Volt does not require jQuery** as a dependency meaning that every library and script's are jQuery free.
 
 <br />
 
@@ -17,14 +17,13 @@ Open-Source **Flask Dashboard** coded with basic modules, database, ORM and depl
 
 > Links
 
-- [Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) - product page
-- [Flask Dashboard Volt - Demo](https://flask-dashboard-volt.appseed.us/) - LIVE deployment
-- [Flask Dashboard Volt - Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-volt/) - Product documentation
-- **[Flask Dashboard Volt PRO](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro?ref=dev)** - Premium version
+- [Volt Bootstrap 5 Flask](https://themesberg.com/product/flask/volt-admin-dashboard-template) - product page
+- [Volt Bootstrap 5 Flask - Demo](tb-volt-dashboard-flask.appseed-srv1.com) - LIVE deployment
+- [Volt Bootstrap 5 Flask - Docs](https://themesberg.com/docs/flask/volt-admin-dashboard/getting-started/quick-start/) - Product documentation
 
 <br />
 
-## UI Kit - **[Volt Dashboard](https://docs.appseed.us/bootstrap-template/volt-dashboard/)**
+## UI Kit - **Volt Dashboard**
 
 Volt is a free and open source **Bootstrap 5** powered admin dashboard with components, pages and plugins that you can use to create an awesome admin interfaces. It also comes with a pro version with more pages, plugins and components.
 
@@ -32,23 +31,12 @@ Volt is a free and open source **Bootstrap 5** powered admin dashboard with comp
 
 **Tooling** - Sass files and a Gulp commands file that will let you build minified and un-minified project files with the ability to even add certain blocks of code based on your environment.
 
-- [Product Page](https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard) - hosted by [Themesberg](https://appseed.us/agency/themesberg)
-- [Product Docs - Quick Start](https://themesberg.com/docs/volt-bootstrap-5-dashboard/getting-started/quick-start/) - official product documentation
+- [Product Page](https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard) 
+- [Product Docs - Quick Start](https://themesberg.com/docs/volt-bootstrap-5-dashboard/getting-started/quick-start/)
 
 <br />
 
-## Want more? Go PRO!
-
-PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
-
-| [Flask DattaAble PRO](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) |
-| --- | --- | --- |
-| [![Flask DattaAble PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-dattaable-pro/master/media/flask-dashboard-dattaable-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-dattaable-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-black-pro/master/media/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-argon-pro/master/media/flask-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
-
-<br />
-<br />
-
-![Flask Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt/master/media/flask-dashboard-volt-intro.gif)
+![Flask Dashboard Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/tb-volt-dashboard-flask/master/media/tb-volt-dashboard-flask-intro.gif)
 
 <br />
 
@@ -56,8 +44,8 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/flask-dashboard-volt.git
-$ cd flask-dashboard-volt
+$ git clone https://github.com/app-generator/tb-volt-dashboard-flask.git
+$ cd tb-volt-dashboard-flask
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -223,8 +211,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/flask-dashboard-volt.git
-$ cd flask-dashboard-volt
+$ git clone https://github.com/app-generator/tb-volt-dashboard-flask.git
+$ cd tb-volt-dashboard-flask
 ```
 
 > Start the app in Docker
@@ -249,8 +237,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/flask-dashboard-volt.git
-$ cd flask-dashboard-volt
+$ git clone https://github.com/app-generator/tb-volt-dashboard-flask.git
+$ cd tb-volt-dashboard-flask
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
@@ -323,4 +311,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard Volt](https://appseed.us/admin-dashboards/flask-dashboard-volt) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Volt Bootstrap 5 Flask](https://themesberg.com/product/flask/volt-admin-dashboard-template) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
